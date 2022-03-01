@@ -7,6 +7,7 @@ Solutions to leetcode problems
 |35|[Search Insert](https://leetcode.com/problems/search-insert-position/)|[Java](Algorithm/Java/SearchInsert.java)|Easy|
 |48|[Roate Image](https://leetcode.com/problems/rotate-image/) | [Java](Algorithm/Java/RotateImage.java)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Java](Algorithm/Java/SingleNumber.java)|Easy|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Java](Algorithm/Java/ContainsDuplicate.java)|Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Java](Algorithm/Java/LongestCommonPrefix.java)|Easy|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Java](Algorithm/Java/FirstBadVersion.java)|Easy|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Java](Algorithm/Java/CountingBits.Java)|Easy|
