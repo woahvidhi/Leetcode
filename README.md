@@ -3,6 +3,7 @@ Solutions to leetcode problems
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Java](Algorithm/Java/ReverseInteger.java)|Medium|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Java](Algorithm/Java/LongestCommonPrefix.java)|Easy|
 |35|[Search Insert](https://leetcode.com/problems/search-insert-position/)|[Java](Algorithm/Java/SearchInsert.java)|Easy|
 |48|[Roate Image](https://leetcode.com/problems/rotate-image/) | [Java](Algorithm/Java/RotateImage.java)|Medium|
