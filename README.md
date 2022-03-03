@@ -14,5 +14,6 @@ Solutions to leetcode problems
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Java](Algorithm/Java/FirstBadVersion.java)|Easy|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Java](Algorithm/Java/CountingBits.java)|Easy|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Java](Algorithm/Java/IsSubsequence.java)|Easy|
+|413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|[Java](Algorithm/Java/ArithmeticSlices.java)|Medium|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[Java](Algorithm/Java/BinarySearch.java)|Easy|
 
