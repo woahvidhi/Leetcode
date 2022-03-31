@@ -16,4 +16,5 @@ Solutions to leetcode problems
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Java](Algorithm/Java/IsSubsequence.java)|Easy|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|[Java](Algorithm/Java/ArithmeticSlices.java)|Medium|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[Java](Algorithm/Java/BinarySearch.java)|Easy|
+|1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Java]|(Algorithm/Java/DuplicateZeros.java)|Easy|
 
