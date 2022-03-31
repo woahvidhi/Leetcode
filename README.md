@@ -5,6 +5,7 @@ Solutions to leetcode problems
 |---| ----- | -------- | ---------- |
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Java](Algorithm/Java/ReverseInteger.java)|Medium|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Java](Algorithm/Java/LongestCommonPrefix.java)|Easy|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](Algorithm/Java/removeDuplicates.java)|Easy|
 |35|[Search Insert](https://leetcode.com/problems/search-insert-position/)|[Java](Algorithm/Java/SearchInsert.java)|Easy|
 |48|[Roate Image](https://leetcode.com/problems/rotate-image/) | [Java](Algorithm/Java/RotateImage.java)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](Algorithm/Java/MaximumSubarray.java)|Easy|
