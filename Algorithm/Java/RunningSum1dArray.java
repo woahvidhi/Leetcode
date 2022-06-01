@@ -1,6 +1,6 @@
-// Source : https://leetcode.com/problems/arithmetic-slices/
+// Source : https://leetcode.com/problems/running-sum-of-1d-array/
 // Author : Vidhi Shah
-// Date   : 03-03-2022
+// Date   : 01-06-2022
 /*
 
 Given an array nums. We define a running sum of an array as runningSum[i] = sum(nums[0]…nums[i]).
