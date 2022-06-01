@@ -18,4 +18,4 @@ Solutions to leetcode problems
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|[Java](Algorithm/Java/ArithmeticSlices.java)|Medium|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[Java](Algorithm/Java/BinarySearch.java)|Easy|
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Java](Algorithm/Java/DuplicateZeros.java)|Easy|
-
+|1480|[Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Java](Algorithm/Java/RunningSum1dArray.java)|Easy|
